@@ -1,0 +1,3 @@
+(function() {
+  // Own lexical scope
+})();
